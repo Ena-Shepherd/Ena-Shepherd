@@ -1,12 +1,5 @@
 # Hi there 👋, I'm Ena Shepherd
 
-## Current Activity
-<p align="center">
-  <img src="https://www.protubevr.com/img/cms/Produit_MagTube/Description/1_1.png"/><br/>
-  🔭 I’m currently working on <a href="https://github.com/ProTubeVR">ProtubeVR's</a> Companion app <br/>
-</p>
-<br/>
-
 ## Languages i enjoy coding in 
 
 `C`, `C++`, `JavaScript` and it's variants ❤️<br/><br/>
